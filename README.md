@@ -8,13 +8,14 @@
     . 将所有的搜索存入mongo,方便统计计算
 
 #### scrapy简介
+    . scrapyd scrapyd-client部署爬虫
     . 使用scrapy_redis完成分布式爬虫
     . 爬取的内容来源
         . 知乎
         . 伯乐在线
         . 拉钩
 
-#### 部署方法
-    . docker-compose部署
+
+
 
 
